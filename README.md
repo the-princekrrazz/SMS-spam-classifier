@@ -33,6 +33,7 @@ nltk
 scikit-learn
 pandas
 numpy
+streamlit
 Step 3: Download NLTK Resources
 This app uses NLTK resources for text preprocessing. Run the following script to download the necessary NLTK data:
 
@@ -55,7 +56,7 @@ This script will:
 Load the dataset.
 Preprocess the text data (tokenization, removing stopwords, etc.).
 Train the Logistic Regression model.
-Save the trained model to a file (spam_classifier.pkl).
+Save the trained model to a file (model.pkl).
 Classifying New Messages
 To classify new messages, use the predict.py script. You can pass messages directly via the command line or modify the script for other types of input.
 
