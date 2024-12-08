@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/20041231/211718743-d6604ff7-8828-422b-9b60-ec156cdaf054.JPG"></img>
 This is a Spam Detection App built using Logistic Regression and the NLTK (Natural Language Toolkit) library. The app classifies text messages as either spam or ham (non-spam) based on a pre-trained model.
 
 Features
